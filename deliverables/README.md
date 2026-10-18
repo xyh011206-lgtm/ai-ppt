@@ -1,3 +1,5 @@
+最新整稿修订请查看 **[V3：高育研参考风格，80页](./v3_reference_style/README.md)**，或先下载[8页预览](./v3_reference_style/representative_pages_preview.pdf)。下方文件为早期版本留档。
+
 # 博士答辩 PPT 优化交付
 
 依据论文《高应变率下钢框架梁柱节点力学性能研究》和原答辩 PDF 优化，包含 44 页主讲及 12 页备用资料。
